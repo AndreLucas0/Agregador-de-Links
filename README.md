@@ -21,7 +21,7 @@ Este é um projeto de "Agregador de Links", desenvolvido para fornecer uma exper
 ## 📥 Como Usar
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seuusuario/welcome-page.git
+   git clone https://github.com/AndreLucas0/Agregador-de-Links.git
    ```
 2. Abra o arquivo `index.html` em seu navegador.
 3. Personalize o conteúdo conforme necessário.
