@@ -30,4 +30,5 @@ Este é um projeto de "Agregador de Links", desenvolvido para fornecer uma exper
 Se tiver dúvidas ou sugestões, entre em contato pelo e-mail: [andrelucasferreira3103@gmail.com](mailto:andrelucasferreira3103@gmail.com).
 
 ---
-**&copy; 2025 - Agregador de Links**
+## :memo: Licença
+Este projeto está sob a licença MIT.
