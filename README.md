@@ -1,12 +1,14 @@
-# Welcome Page - README
+# Agregador de Links - README
 
 ## 📌 Sobre o Projeto
-Este é um projeto de "Welcome Page" para usuários, desenvolvido para fornecer uma experiência amigável e personalizada ao acessar um site, além de facilitar o acesso de conteúdos.
+Este é um projeto de "Agregador de Links", desenvolvido para fornecer uma experiência amigável e facilitar o acesso de à conteúdos específicos.
 
 ## 🚀 Tecnologias Utilizadas
 - HTML5
 - CSS3
 - JavaScript
+- Git e Github
+- Figma
 
 ## 📂 Estrutura de Arquivos
 ```
@@ -28,4 +30,4 @@ Este é um projeto de "Welcome Page" para usuários, desenvolvido para fornecer 
 Se tiver dúvidas ou sugestões, entre em contato pelo e-mail: [andrelucasferreira3103@gmail.com](mailto:andrelucasferreira3103@gmail.com).
 
 ---
-**&copy; 2025 - Welcome Page**
+**&copy; 2025 - Agregador de Links**
